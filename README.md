@@ -9,7 +9,7 @@ This Scrimba project is a digital business card for Hosam Youssef, built using R
 
 ## Link 🔗
 
-- Hosted on Netlify: https://ashmoreno-digital-card.netlify.app
+- Hosted on Netlify: https://hosam-youssef-digital-card.netlify.app/
 
 ## Getting Started 🏁
 
