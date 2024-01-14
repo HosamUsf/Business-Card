@@ -19,13 +19,13 @@ To get started, you'll need to clone the repository to your local machine. Once 
 
 The card is divided into several sections:
 
-- About: This section provides a brief introduction to Ash Moreno, including their profession and skills.
-- Interests: This section lists some of Ash Moreno's hobbies and interests.
-- Footer: This section provides links to Ash Moreno's social media profiles, such as LinkedIn and Twitter.
+- About: This section provides a brief introduction to Hosam Youssef, including their profession and skills.
+- Interests: This section lists some of Hosam Youssef's hobbies and interests.
+- Footer: This section provides links to Hosam Youssef's social media profiles, such as LinkedIn and Twitter.
 
 ## Customizing the Card 📝
 
-If you would like to use this card for your own purposes, you can easily customize it by editing the code. Be sure to replace Ash Moreno's information with your own, and update the links to your own social media profiles. Additionally, you can also add or remove sections and change the styling to suit your own needs.
+If you would like to use this card for your own purposes, you can easily customize it by editing the code. Be sure to replace  Hosam Youssef's information with your own, and update the links to your own social media profiles. Additionally, you can also add or remove sections and change the styling to suit your own needs.
 
 ## Deployment 🏃🏼‍♀️
 
