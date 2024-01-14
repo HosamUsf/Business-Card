@@ -1,4 +1,4 @@
-import logo from "../assets/4K-NARUTO-WALLPAPER-PC.png"
+import logo from "../assets/4K-NARUTO-WALLPAPER-PC.jpg"
 
 function handleClick() {
     // Replace with the GitHub profile URL
