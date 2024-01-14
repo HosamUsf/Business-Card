@@ -1,5 +1,4 @@
 import Info from './component/Info';
-import Main from './component/Main';
 import Footer from './component/Footer';
 import About from './component/About';
 import Interests from './component/Interests';
